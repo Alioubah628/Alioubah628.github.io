@@ -1,0 +1,31 @@
+# Site personnel — Aliou Bah
+
+## Contenu
+- `index.html` : accueil
+- `parcours.html` : parcours et centres d’intérêt
+- `projets.html` : portfolio de projets
+- `galerie.html` : galerie
+- `actualites.html` : actualités
+- `contact.html` : réseaux et contact
+- `style.css` : couleurs, mise en page et adaptation mobile
+- `script.js` : menu mobile, année automatique et liens sociaux
+- `assets/` : dossier pour les photos
+
+## Installation dans GitHub Pages
+1. Ouvre le dépôt `Alioubah628.github.io`.
+2. Ajoute ou téléverse tous les fichiers de ce dossier à la racine du dépôt. Le dossier `assets` doit aussi être conservé.
+3. Si GitHub demande de remplacer `index.html`, confirme le remplacement afin d'utiliser cette nouvelle version.
+4. Valide les changements avec un message comme `Ajout du site personnel complet`.
+5. Ouvre `https://alioubah628.github.io` et actualise après une ou deux minutes.
+
+## Photo de la page d’accueil
+Ajoute une photo que tu peux partager publiquement dans `assets/`, nomme-la exactement `ma-photo.jpg`. Le site affiche un emplacement de remplacement tant que la photo n’existe pas.
+
+## Liens sociaux
+Ouvre `script.js` et modifie `liensSociaux` :
+- TikTok : le lien est prérempli avec `@Alioubah628` ; vérifie que c’est bien ton compte.
+- Snapchat : colle ton lien de profil public.
+- WhatsApp : colle un lien `https://wa.me/` suivi du numéro international, chiffres seulement. N'ajoute pas ton numéro si tu ne veux pas le rendre public.
+
+## Personnalisation
+Remplace les textes entre crochets, comme `[À compléter]`, par des informations exactes que tu souhaites publier. Les cartes d’actualités et de projets sont des modèles, pas des faits réels.
